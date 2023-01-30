@@ -1,0 +1,16 @@
+.search-bar {
+    border: 3px solid  rgb(218, 122, 32);
+    border-radius: 5px; 
+    box-shadow: 4px 4px 8px #000 ;
+    padding: 10px;
+}
+
+.search-bar form {
+    display: flex;
+    flex-direction: column;
+}
+
+.label {
+    font-style: italic;
+    color:rgb(127, 96, 13)
+}
